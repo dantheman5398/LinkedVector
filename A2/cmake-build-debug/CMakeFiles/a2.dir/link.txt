@@ -1,0 +1,1 @@
+/usr/bin/c++  -ggdb -std=c++11 -Wall -Werror=uninitialized -Werror=maybe-uninitialized -Winit-self -Wredundant-decls -Werror=return-type -g   CMakeFiles/a2.dir/code/main.cpp.o  -o a2 

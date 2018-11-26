@@ -1,0 +1,5 @@
+/media/sf_CSE250Projects/A2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/sf_CSE250Projects/A2/cmake-build-debug/CMakeFiles/vNode-obj.dir
+/media/sf_CSE250Projects/A2/cmake-build-debug/CMakeFiles/LinkedVector-obj.dir
+/media/sf_CSE250Projects/A2/cmake-build-debug/CMakeFiles/a2.dir
+/media/sf_CSE250Projects/A2/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/sf_CSE250Projects/A2/code/LinkedVector.hpp
+vNode.hpp
+/media/sf_CSE250Projects/A2/code/vNode.hpp
+algorithm
+-
+cmath
+-
+
+/media/sf_CSE250Projects/A2/code/main.cpp
+LinkedVector.hpp
+/media/sf_CSE250Projects/A2/code/LinkedVector.hpp
+vNode.hpp
+/media/sf_CSE250Projects/A2/code/vNode.hpp
+iostream
+-
+
+/media/sf_CSE250Projects/A2/code/vNode.hpp
+vector
+-
+
